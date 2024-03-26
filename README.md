@@ -6,11 +6,11 @@
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Eneias&show_icons=true&count_private=true&hide_border=true&title_color=46FF36&icon_color=46FF36&text_color=90969C&bg_color=E0EEEE" alt="Cleyton Eneias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Eneias&layout=compact&hide_border=true&title_color=46FF36&text_color=FFFFFF&bg_color=E0EEEE" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Eneias&layout=compact&hide_border=true&title_color=46FF36&text_color=90969C&bg_color=E0EEEE" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bg_color=000000&color=46FF36&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bgcolor=E0EEEE&color=46FF36&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Fatos sobre mim:
 - 🔭 Conclui curso Técnico de Informática na IFPB (Pedras de Fogo/PB)
