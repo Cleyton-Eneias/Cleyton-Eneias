@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=46FF36&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03C988&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=46FF36&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Cleyton,+muito+prazer👋;Tenho+20+anos;Quero+me+tornar+um+desenvolvedor!;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03C988&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Cleyton,+muito+prazer👋;Tenho+20+anos;Quero+me+tornar+um+desenvolvedor!;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Eneias&show_icons=true&count_private=true&hide_border=true&title_color=46FF36&icon_color=46FF36&text_color=90969C&bg_color=E0EEEE" alt="Cleyton Eneias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Eneias&layout=compact&hide_border=true&title_color=46FF36&text_color=90969C&bg_color=E0EEEE" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Eneias&show_icons=true&count_private=true&hide_border=true&title_color=03C988&icon_color=03C988&text_color=13005A&bg_color=E0EEEE" alt="Cleyton Eneias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Eneias&layout=compact&hide_border=true&title_color=03C988&text_color=13005A&bg_color=E0EEEE" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bgcolor=E0EEEE&color=46FF36&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bgcolor=E0EEEE&color=03C988&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Fatos sobre mim:
 - 🔭 Conclui curso Técnico de Informática na IFPB (Pedras de Fogo/PB)
@@ -88,5 +88,5 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03C988&height=120&section=footer"/>
 
