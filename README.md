@@ -10,15 +10,16 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliomaia28&bg_color=000000&color=46FF36&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bg_color=000000&color=46FF36&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Fatos sobre mim:
-- 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
-- 🎲 Estudos atualmente voltados para Data Enginner e Python
-- 👯 Procuro colaborar em projetos e pesquisas de Inteligência Artificial
-- 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Jogos
-- 📫 Fale comigo em: **juliomaia2004@gmail.com**
-- ⚡ Curiosidade sobre mim: **Gosto de jogos fps e jogo basquete como hobbie**
+- 🔭 Conclui curso Técnico de Informática na IFPB (Pedras de Fogo/PB)
+- 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa/PB)
+- ☕ Atualmente estou estudando um pouco mais de Java
+- 👯 Procuro colaborar em projetos e Front-End e Back-end
+- 💭 Fale comigo sobre Tecnologia, Carreira e Jogos
+- 📫 Fale comigo em: **cleyton.eneias.santos@gmail.com**
+- ⚡ Curiosidade sobre mim: **Gosto muito de vídeogames, principalmente fps.**
   
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
@@ -69,7 +70,7 @@
 
 <h2 align="left">🔗 Entre em contato comigo:</h2>
 <div align="left"> 
-<a href="https://www.linkedin.com/in/j%C3%BAlio-maia-68baa7277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/cleyton-eneias-dos-santos-7761ab245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
  <br>
@@ -77,7 +78,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliomaia28}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cleyton-Eneias}/count.svg" /></p> 
 <br>
 </div>
 
@@ -87,6 +88,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
-<!--
-Creditos - rafaelhenrique-br
--->
