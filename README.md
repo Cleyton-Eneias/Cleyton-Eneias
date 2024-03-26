@@ -15,11 +15,12 @@
 ##  Fatos sobre mim:
 - 🔭 Conclui curso Técnico de Informática na IFPB (Pedras de Fogo/PB)
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa/PB)
-- ☕ Atualmente estou estudando um pouco mais de Java
+- 💼 Já atuei na aréa de TI na USINA GIASA como jovem aprendiz durante 1 ano e 6 meses
+- ☕ Atualmente estou estudando um pouco mais de Java 
 - 👯 Procuro colaborar em projetos e Front-End e Back-end
 - 💭 Fale comigo sobre Tecnologia, Carreira e Jogos
 - 📫 Fale comigo em: **cleyton.eneias.santos@gmail.com**
-- ⚡ Curiosidade sobre mim: **Gosto muito de vídeogames, principalmente fps.**
+- ⚡ Curiosidade sobre mim: **Gosto muito de vídeogames, principalmente fps**
   
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
@@ -29,7 +30,7 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![IntelLij](https://img.shields.io/teamcity/build/s/:IntelliJIdeaCe_JavaDecompilerEngineTestsColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
 ### 🎲 Ciência, Engenharia e Visualização de Dados:
