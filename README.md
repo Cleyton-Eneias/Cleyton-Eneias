@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cleyton-Eneias&bg_color=13005A&color=03C988&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Fatos sobre mim:
-- 🔭 Conclui curso Técnico de Informática na IFPB (Pedras de Fogo/PB)
+- 🔭 Curso cocluído Técnico de Informática na IFPB (Pedras de Fogo/PB)
 - 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa/PB)
 - 💼 Já atuei na aréa de TI na USINA GIASA como jovem aprendiz durante 1 ano e 6 meses
 - ☕ Atualmente estou estudando um pouco mais de Java 
