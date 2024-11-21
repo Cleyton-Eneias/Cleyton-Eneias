@@ -53,6 +53,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8cGF0aCBkPSJNMTIwIDY0YzAtMzAuOC0yMy4yLTU2LTUyLjgtNjAuNi0uOC0uMi0xLjYtLjMtMi40LS4zQzY0LjcgMi41IDM5IDAgMjAuMSAwLTIuNSAwIDAgMi41IDAgMjAuMSAwIDM5IDIgNjQuNyAyLjZ2LjZIMkMxLjIgNjQuNyAwIDY5IDAgNzR2MjQuMmgxMjhWNzRjMC01LTEuMi05LjMtMi00em0tMiA5Ni4yaC0xMjBWNzRjMC0zLjIgMS0zLjIgMi4yLTQuNiA0LjItNCA4LjgtNi40IDEzLjgtOC0xLjUgMS44LTIuNCAzLjctMy40IDUuNS00LjUgOS43LTIuOCAxNC4zLTEuNCAxNS44LjIgMy44LS4yIDguNi0xLjIgMTQuNC0zLjUgMi4xIDMuMiA0LjcgNi4xIDcuNiA4LjYgMi45IDIuNiA2LjEgNC44IDkuOCA2LjQgMS40IDMuMSAzLjkgNi4zIDcuOCA2LjMgMy44IDAgNi4zLTMuMiA3LjgtNi40IDIuOC0xLjIgNS42LTIuOCA4LjgtMy42IDEuMS0uMyAyLjMtLjUgMy42LS42LjguMiAxLjguMyAyLjguNC0uMy0uMy0uNi0uNi0uOC0xLS45LTEuNC0yLjMtMS40LTQuNnYtLjZ6IiBmaWxsPSIjZmZmIi8+Cjwvc3ZnPgo=&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ### 🌱 Estou aprendendo / Tenho interesse:
