@@ -14,7 +14,7 @@
 
 ##  Fatos sobre mim:
 - 🔭 Curso cocluído em Técnico de Informática na IFPB (Pedras de Fogo/PB)
-- 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa/PB)
+- 🔭 Curso cocluído em Sistemas para Internet na Unipê (João Pessoa/PB)
 - 💼 Já atuei na aréa de TI na USINA GIASA como jovem aprendiz durante 1 ano e 6 meses
 - 💼 Atualmente estou trabalhando no GRUPO OLHO DAGUA.
 - 👯 Procuro colaborar em projetos e Front-End e Back-end
